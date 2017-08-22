@@ -1,6 +1,6 @@
 {
   "name": "angular-fixed-table-header",
-  "version": "0.2.1",
+  "version": "0.3",
   "description": "Fixed table header directive.",
   "main": [
     "src/fixed-table-header.js"
